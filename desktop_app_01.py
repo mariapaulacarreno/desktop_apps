@@ -29,4 +29,3 @@ lb_escudo.place(x=10, y=20)
 ventana_principal.mainloop()
 
 
-
